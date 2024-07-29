@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Mobifly - Mobile Shopping App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Mobifly Logo](path/to/logo.png)
 
-## Available Scripts
+Mobifly is a modern mobile shopping application built with React. The app provides an intuitive and seamless shopping experience, allowing users to browse products, view details, add items to their cart, and complete purchases.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Product Listing:** Browse a variety of products with detailed descriptions and images.
+- **Product Details:** View detailed product information and related items.
+- **Shopping Cart:** Add and remove products from your cart, with the ability to update quantities.
+- **Responsive Design:** Optimized for both mobile and desktop views.
+- **Dark/Light Theme:** Toggle between dark and light themes based on user preference.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React:** JavaScript library for building user interfaces.
+- **React Router:** For navigation between different pages.
+- **Bootstrap:** For quick and responsive UI design.
+- **Styled Components:** For styling components with CSS-in-JS.
+- **Context API:** For state management and theming.
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. **Clone the Repository**
 
-### `npm run build`
+   ```bash
+   git clone https://github.com/rakshitingole1/mobifly.git
+   cd mobifly
+## Install Dependencies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+npm install
+Run the Application
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+npm start
+The app will be available at http://localhost:3000.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
+Home Page: Displays a list of products.
+Product Details Page: View detailed information about a selected product.
+Cart Page: View and manage the items in your shopping cart.
+Contributing
+Contributions are welcome! Please follow these guidelines:
 
-### `npm run eject`
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+Author: Rakshit Ingole
+Email: rakshitingole1@gmail.com
+GitHub: rakshitingole1
+## Acknowledgements
+React
+React Router
+Bootstrap
+Styled Components
