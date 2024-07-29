@@ -1,6 +1,6 @@
 # Mobifly - Mobile Shopping App
 
-![Mobifly Logo](path/to/logo.png)
+![Mobifly Logo](![mobifly](https://github.com/user-attachments/assets/164b85ca-d25e-4e9d-a714-6128dff30051))
 
 Mobifly is a modern mobile shopping application built with React. The app provides an intuitive and seamless shopping experience, allowing users to browse products, view details, add items to their cart, and complete purchases.
 
