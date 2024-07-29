@@ -2,12 +2,22 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import { BrowserRouter as Router } from "react-router-dom";
+import {ProductProvider} from './context';
+import { ThemeProvider } from './components/context/ThemeContexts';
 import reportWebVitals from './reportWebVitals';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+  <ProductProvider>
+     <ThemeProvider>
+       <Router>
+            <App />
+           </Router>
+  </ThemeProvider>
+ </ProductProvider>
   </React.StrictMode>
 );
 
